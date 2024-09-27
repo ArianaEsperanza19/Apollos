@@ -15,3 +15,8 @@
 - idCliente
 - idProducto
 - fecha
+## LineasPedidos
+- id
+- idPedido
+- idProducto
+- unidades
